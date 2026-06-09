@@ -123,6 +123,10 @@ This theme is compatible with:
 - **Foot 1.13.0+**: Recommended version
 - **Earlier versions**: Should work but may have limited functionality
 
+## Credits
+
+Special thanks to [meaayu](https://github.com/meaayu) for the initial implementation of this port.
+
 ## Contributing
 
 Found an issue or have a suggestion? Open an issue or PR on the [main Kape repository](https://github.com/kape-theme/kape).
